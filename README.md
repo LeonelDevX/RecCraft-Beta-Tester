@@ -1,29 +1,31 @@
-# RecCraft Beta-Tester
+# RecCraft – Beta-Tester
 
-Privater Testbereich für RecCraft. Hier findest du neue Testversionen, Mods, Resourcepacks und die Änderungen der einzelnen Versionen.
+Privater Testbereich für RecCraft. Hier findest du Testversionen, Mods, Resourcepacks und die Änderungen.
 
 ## Downloads
 
-Öffne rechts **Releases** und lade die neueste Testversion herunter. Wenn noch keine Release vorhanden ist, wurde noch kein Testpaket veröffentlicht.
+**[Releases und Downloads öffnen](../../releases)**
 
-- **Mods:** Lade nur Dateien herunter, die für deine Minecraft-Version und deinen Mod-Loader angegeben sind.
-- **Resourcepacks:** ZIP-Datei in den Ordner `resourcepacks` legen und im Spiel unter Optionen → Ressourcenpakete aktivieren.
-- **Server-Version:** Prüfe die Versionsangaben der jeweiligen Release.
+Neue Mods und Resourcepacks werden als Dateien an Releases angehängt. Wenn dort noch nichts verfügbar ist, wurde noch keine Testversion veröffentlicht. Achte auf die unterstützte Minecraft-Version und den Mod-Loader.
 
-## Fehler melden
+## Fehler melden und Ideen einreichen
 
-Öffne den Tab **Issues** → **New issue** → **Bug melden**. Beschreibe, was passiert ist, wie man den Fehler reproduziert und welche Version du nutzt. Screenshots und Logs helfen.
+**[Neue Meldung erstellen](../../issues/new/choose)**
 
-Bitte keine Passwörter, Tokens, privaten IP-Adressen oder personenbezogenen Daten hochladen.
-
-## Vorschläge
-
-Unter **Issues** → **New issue** → **Verbesserung vorschlagen** kannst du Ideen einreichen.
+Wähle **Fehler melden** oder **Verbesserung vorschlagen**. Gib bei Fehlern die Beta-Version, Minecraft-Version, Schritte zum Nachstellen und das erwartete Ergebnis an. Prüfe zuerst, ob der Fehler bereits gemeldet wurde.
 
 ## Was ist neu?
 
-Siehe [CHANGELOG.md](CHANGELOG.md) und die Beschreibungen der Releases.
+- [Changelog](CHANGELOG.md)
+- [Releases mit Versionshinweisen](../../releases)
+- [Anleitung für Beta-Tester](docs/TESTEN.md)
 
-## Hinweise
+## Regeln
 
-Dies ist ein privates Beta-Repository. Testdateien und Links nicht ohne Freigabe weitergeben.
+- Testversionen können Fehler enthalten. Sichere wichtige Spielstände.
+- Testdateien und interne Informationen nicht ohne Freigabe weitergeben.
+- Pro Fehler bitte ein eigenes Issue eröffnen.
+- Keine Passwörter, Tokens, privaten Daten oder ungefilterten Logs hochladen.
+- Sicherheitslücken bitte privat an das Projektteam melden, nicht als öffentliches Issue.
+
+**Hinweis:** Dieses Repository ist privat. Tester brauchen eine GitHub-Einladung.
