@@ -1,5 +1,5 @@
-# Resourcepacks
+# Resource Packs
 
-Die **installierbaren Resourcepack-Dateien** werden über [GitHub Releases](../../releases) verteilt.
+Installable resource pack files will be distributed through [GitHub Releases](../../releases).
 
-Bitte im Release die unterstützte Minecraft-Version und besondere Installationshinweise angeben.
+Each release should specify the supported Minecraft version and any special installation instructions.
