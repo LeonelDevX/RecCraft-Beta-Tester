@@ -1,5 +1,5 @@
 # Mods
 
-Die **installierbaren Mod-Dateien** werden mit Versionsnummern über [GitHub Releases](../../releases) verteilt.
+Installable mod files will be distributed through versioned [GitHub Releases](../../releases).
 
-Bitte für jeden Release die unterstützte Minecraft-Version und den Mod-Loader angeben. Hier können bei Bedarf Quelltexte oder zusätzliche Hinweise abgelegt werden.
+Each release should specify the supported Minecraft version, mod loader, and installation instructions. Source code or additional documentation may be stored here when needed.
