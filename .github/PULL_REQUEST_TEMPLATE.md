@@ -1,13 +1,13 @@
-## Was wurde geändert?
+## What changed?
 
-<!-- Kurz beschreiben -->
+<!-- Briefly describe your changes. -->
 
-## Wie wurde es getestet?
+## How was it tested?
 
-<!-- Version, Umgebung und Ergebnis -->
+<!-- Include version, environment, and test results. -->
 
-## Checkliste
+## Checklist
 
-- [ ] Änderungen getestet
-- [ ] Keine Zugangsdaten oder persönlichen Daten hinzugefügt
-- [ ] Changelog/Release-Notizen bei Bedarf aktualisiert
+- [ ] Changes have been tested
+- [ ] No credentials or personal information have been added
+- [ ] Changelog or release notes have been updated if needed
