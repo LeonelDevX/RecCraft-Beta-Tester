@@ -1,31 +1,31 @@
-# RecCraft – Beta-Tester
+# RecCraft – Beta Testers
 
-Privater Testbereich für RecCraft. Hier findest du Testversionen, Mods, Resourcepacks und die Änderungen.
+Welcome to the private RecCraft beta testing repository. This is where testers can find test builds, mods, resource packs, updates, and report issues.
 
 ## Downloads
 
-**[Releases und Downloads öffnen](../../releases)**
+**[View releases and downloads](../../releases)**
 
-Neue Mods und Resourcepacks werden als Dateien an Releases angehängt. Wenn dort noch nichts verfügbar ist, wurde noch keine Testversion veröffentlicht. Achte auf die unterstützte Minecraft-Version und den Mod-Loader.
+Mods and resource packs will be attached to GitHub Releases. If no release is available yet, no test build has been published. Always check the supported Minecraft version and mod loader before installing.
 
-## Fehler melden und Ideen einreichen
+## Report bugs or suggest improvements
 
-**[Neue Meldung erstellen](../../issues/new/choose)**
+**[Create a new report](../../issues/new/choose)**
 
-Wähle **Fehler melden** oder **Verbesserung vorschlagen**. Gib bei Fehlern die Beta-Version, Minecraft-Version, Schritte zum Nachstellen und das erwartete Ergebnis an. Prüfe zuerst, ob der Fehler bereits gemeldet wurde.
+Choose **Report a Bug** or **Suggest a Feature**. For bugs, include your beta version, Minecraft version, steps to reproduce, expected behavior, and what actually happened. Check existing issues first to avoid duplicates.
 
-## Was ist neu?
+## What's new?
 
 - [Changelog](CHANGELOG.md)
-- [Releases mit Versionshinweisen](../../releases)
-- [Anleitung für Beta-Tester](docs/TESTEN.md)
+- [Releases and version notes](../../releases)
+- [Beta testing guide](docs/TESTEN.md)
 
-## Regeln
+## Beta tester rules
 
-- Testversionen können Fehler enthalten. Sichere wichtige Spielstände.
-- Testdateien und interne Informationen nicht ohne Freigabe weitergeben.
-- Pro Fehler bitte ein eigenes Issue eröffnen.
-- Keine Passwörter, Tokens, privaten Daten oder ungefilterten Logs hochladen.
-- Sicherheitslücken bitte privat an das Projektteam melden, nicht als öffentliches Issue.
+- Beta builds may contain bugs. Back up important worlds and settings.
+- Do not share beta files or internal information without permission.
+- Open a separate issue for each bug.
+- Never post passwords, access tokens, personal information, or unredacted logs.
+- Report security vulnerabilities privately to the project team, not through a public issue.
 
-**Hinweis:** Dieses Repository ist privat. Tester brauchen eine GitHub-Einladung.
+**Note:** This repository is private. Testers need a GitHub invitation to access it.
