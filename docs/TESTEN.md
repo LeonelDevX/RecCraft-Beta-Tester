@@ -1,25 +1,25 @@
-# Anleitung für Beta-Tester
+# Beta Testing Guide
 
-## 1. Testversion herunterladen
+## 1. Download a test build
 
-Öffne die [Releases](../../releases). Wähle die neueste freigegebene Beta und lies ihre Hinweise. Lade die dort bereitgestellten Mods oder Resourcepacks herunter.
+Open [Releases](../../releases), choose the latest available beta, and read its release notes. Download the mods or resource packs attached to that release.
 
-## 2. Installation
+## 2. Install the files
 
-Die benötigte Minecraft-Version, der Mod-Loader (falls erforderlich) und die genauen Installationsschritte stehen beim jeweiligen Release. **Installiere keine Dateien auf Verdacht.**
+The required Minecraft version, mod loader (if any), and specific installation instructions will be listed in each release. **Do not install files without checking compatibility.**
 
-- Mods gehören bei einer Java-Installation normalerweise in den `mods`-Ordner, wenn der angegebene Mod-Loader passt.
-- Resourcepacks können über Minecraft unter **Optionen → Ressourcenpakete → Paketordner öffnen** hinzugefügt werden.
-- Sichere vor Tests wichtige Welten und Einstellungen.
+- For Minecraft Java Edition, mods normally go in the `mods` folder when the correct mod loader is installed.
+- To install resource packs, open Minecraft and go to **Options → Resource Packs → Open Pack Folder**.
+- Back up important worlds and settings before testing.
 
-## 3. Testen
+## 3. Test
 
-Prüfe besonders Start, Beitritt, Spielmechaniken, Darstellung und Leistung. Notiere die verwendete Version sowie die Schritte, die zu einem Fehler führen.
+Check startup, joining the server, gameplay features, visuals, and performance. Note which version you used and the exact steps that caused any problem.
 
-## 4. Rückmeldung
+## 4. Send feedback
 
-Öffne [Issues](../../issues/new/choose) und wähle **Fehler melden** oder **Verbesserung vorschlagen**. Pro Problem bitte eine Meldung. Lade keine Passwörter, privaten Chatverläufe oder Zugangstokens hoch.
+Open [Issues](../../issues/new/choose) and select **Report a Bug** or **Suggest a Feature**. Submit one issue per problem. Never upload passwords, private conversations, or access tokens.
 
-## 5. Updates
+## 5. Update safely
 
-Lies vor jedem Update die Release-Notizen. Nicht jede Beta ist mit alten Spielständen oder Einstellungen kompatibel.
+Read the release notes before updating. Not every beta build will be compatible with older worlds or settings.
