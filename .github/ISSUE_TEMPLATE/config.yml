@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Testanleitung lesen
+  - name: Read the Beta Testing Guide
     url: https://github.com/LeonelDevX/RecCraft-Beta-Tester/blob/main/docs/TESTEN.md
-    about: Bitte vor dem Melden die Testanleitung lesen.
+    about: Please read the testing guide before submitting a report.
