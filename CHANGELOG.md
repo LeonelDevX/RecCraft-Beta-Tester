@@ -1,16 +1,16 @@
 # Changelog
 
-Hier werden Änderungen an RecCraft-Betaversionen dokumentiert.
+Changes to RecCraft beta versions will be documented here.
 
-## Noch nicht veröffentlicht
+## Unreleased
 
-### Neu
-- Beta-Tester-Repository mit Anleitungen und Vorlagen für Fehlermeldungen eingerichtet.
+### Added
+- Beta testing repository with instructions and issue templates.
 
-### Behoben
-- Noch keine Einträge.
+### Fixed
+- No fixes documented yet.
 
-### Bekannt
-- Noch keine bestätigten Probleme dokumentiert.
+### Known issues
+- No confirmed issues documented yet.
 
-> Konkrete Spiel-, Mod- und Resourcepack-Änderungen werden erst eingetragen, wenn entsprechende Testversionen vorliegen.
+> Specific gameplay, mod, and resource pack changes will be added once the corresponding test builds are available.
